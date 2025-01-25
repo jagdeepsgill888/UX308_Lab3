@@ -19,7 +19,6 @@ let clothing;
 
 //console.log(`In a ${temp}c with ${humid}% humidity, bring a ${clothing}`);
 
-//return(`In a ${temp}c with ${humid}% humidity , bring a ${clothing}`);
 //}
 
 export {convertTemp2Clothing}
